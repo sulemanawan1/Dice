@@ -62,7 +62,7 @@ class _MyAppState extends State<MyApp> {
                     color: Colors.redAccent,
                     onPressed: diceroll,
                     child: Text(
-                      'Roll Dice',
+                      'Roll the Dice',
                       style: TextStyle(color: Colors.white, fontSize: 20),
                     ),
                   ),
